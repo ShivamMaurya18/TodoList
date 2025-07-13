@@ -69,4 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-<img width="1024" height="1536" alt="ChatGPT Image Jul 10, 2025, 12_09_24 PM" src="https://github.com/user-attachments/assets/435f9f49-2375-4b8e-8b11-543d436971db" />
+
